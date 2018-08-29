@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: AHCompatibilityAddon
+## Notes: Fixes Auction House compatibility for the new patch.
+## Version: 1
+## Author: Logon
+
+AHCompabilityAddon.lua
